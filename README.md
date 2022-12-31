@@ -1,3 +1,3 @@
 # Omnifood
 
-A landing page for a food restaurant
+A landing page for a fictional food restaurant
