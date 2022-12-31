@@ -1,2 +1,3 @@
 # Omnifood
-https://saint-josh.github.io/Omnifood/
+
+A landing page for a food restaurant
